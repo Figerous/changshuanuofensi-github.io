@@ -35,6 +35,8 @@
                 坐标江苏扬州高邮，对信息技术以及ACG文化感兴趣,会pr ps au ae am py php e<br>   
                
                昵称：赵成/Figerous我的QQ是1900380597<br>
+                <div class="list_ico"><a href="tencent://message/?uin=1410469560" target="_blank" rel="nofollow"><i class="fa fa-qq"></i></a></div>
+				<div class="list_title">联系我</div>
              
               
                天空，大地，艳阳，微风，还有一点点雨滴是必要的，但你的微笑对我来说或许更多，让我们在一起，在这盛夏，“天空，大地，艳阳，微风，还有一点点必要的雨滴，但你的微笑对我来说或许更多，让我们在一起 <br>
@@ -222,11 +224,18 @@
 
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize" href="https://figerous.github.io/"><span class="iconfont iconBlog"></span> 博客</a>
 
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-black mdui-text-capitalize" href="https://lab.qwq.best/"
-               target="_blank"><span class="iconfont iconlab"></span> 实验室</a>
+            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-black mdui-text-capitalize" href="https://pan.baidu.com/s/1ghSAwJX0Qy2Hg4Hln989SQ"
+               target="_blank"><span class="iconfont iconlab"></span> 在线CC攻击</a>
 
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="http://suki.house/"
-               target="_blank" style="text-transform: none!important;">sukiHouse</a>
+            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://pan.baidu.com/s/1fO31OeIsIg90YG4WmCa0eg"
+               target="_blank" style="text-transform: none!important;">抖音视频解析</a>
+             
+            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://pan.baidu.com/s/1sltRJdX0pvmahoZ39GttRw"
+               target="_blank" style="text-transform: none!important;">1.5W短信轰炸</a>
+            
+            
+               百度网盘提取码一律ky6y<br>
+        
         </div>
 
         <div class="rin-card-part" id="contact">
