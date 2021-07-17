@@ -225,13 +225,13 @@
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize" href="https://figerous.github.io/"><span class="iconfont iconBlog"></span> 博客</a>
 
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-black mdui-text-capitalize" href="https://pan.baidu.com/s/1ghSAwJX0Qy2Hg4Hln989SQ"
-               target="_blank"><span class="iconfont iconlab"></span> 在线CC攻击</a>
+               target="_blank"><span class="iconfont iconlab"></span> CC攻击/网盘资源</a>
 
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://pan.baidu.com/s/1fO31OeIsIg90YG4WmCa0eg"
-               target="_blank" style="text-transform: none!important;">抖音视频解析</a>
+               target="_blank" style="text-transform: none!important;">抖音视频解析/网盘资源</a>
              
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://pan.baidu.com/s/1sltRJdX0pvmahoZ39GttRw"
-               target="_blank" style="text-transform: none!important;">1.5W短信轰炸</a>
+               target="_blank" style="text-transform: none!important;">1.5W短信轰炸/网盘资源</a>
             
             
                百度网盘提取码一律ky6y<br>
@@ -290,6 +290,6 @@
 <script src="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/js/main.js"></script>
 </body>
 </html>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=767452&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//y.music.163.com/m/playlist?id=5032206797&userid=3342975703&creatorId=3342975703"></iframe>
 
 
