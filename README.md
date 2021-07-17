@@ -73,11 +73,13 @@
     <div class="mdui-card rin-card">
         <div class="rin-card-title"></div>
         <div class="rin-card-part" id="introduce">
-            <div class="rin-card-content mdui-typo">你好，这里是某F，普通的学生<br>
+            <div class="rin-description">「樱花 樱花 好想见你|不,我想现在就见到你|没关系 别哭,我是风正萦绕着你|我是星 会一直守护你|能和你相遇真是太好了|真的真的很好|必须离开了|对不起,不要问了,真的抱歉|我已经不能再留在你身边」</div>
+              <title>强忍着泪水笑着说再见 | 让我们永远在梦中相会吧
+            <div class="rin-card-content mdui-typo">你好，这里是某成，普通的学生<br>
               
-                坐标江苏扬州高邮，对信息技术以及ACG文化感兴趣我会pr ps au ae am py php e<br>
+                坐标江苏扬州高邮，对信息技术以及ACG文化感兴趣我会一些pr ps au ae am py php e<br>
                
-                昵称：赵成/Figerous<br>
+                昵称：赵成/Figerous我的QQ是1900380597<br>
              
               
                 天空，大地，艳阳，微风，还有一点点雨滴是必要的，但你的微笑对我来说或许更多，让我们在一起，在这盛夏，“天空，大地，艳阳，微风，还有一点点必要的雨滴，但你的微笑对我来说或许更多，让我们在一起 <br>
@@ -324,6 +326,6 @@
 <script src="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/js/main.js"></script>
 </body>
 </html>
-
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=767452&auto=1&height=66"></iframe>
 
 
