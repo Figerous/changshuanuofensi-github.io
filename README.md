@@ -32,7 +32,7 @@
     <div class="mdui-card rin-card">
         <div class="rin-card-title"></div>
         <div class="rin-card-part" id="introduce">
-            <div class="rin-description">「樱花 樱花 好想见你|不,我想现在就见到你|没关系 别哭,我是风正萦绕着你|我是星 会一直守护你|能和你相遇真是太好了|真的真的很好|必须离开了|对不起,不要问了,真的抱歉|我已经不能再留在你身边」</div>
+     
               <title>强忍着泪水笑着说再见 | 让我们永远在梦中相会吧
             <div class="rin-card-content mdui-typo">你好，这里是某成，普通的学生<br>
                 
