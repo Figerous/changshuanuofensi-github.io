@@ -31,10 +31,16 @@
     <div class="mdui-card rin-card">
         <div class="rin-card-title">AyagawaSeirin!</div>
         <div class="rin-card-part" id="introduce">
-            <div class="rin-card-content mdui-typo">你好，这里是某F，普通的学生一枚~<br>
-                坐标江苏扬州高邮，对信息技术以及ACG文化感兴趣。<br>
-                昵称：Figerous。<br>
-                How lucky to meet you!<br>
+            <div class="rin-card-content mdui-typo">你好，这里是某F，普通的学生<br>
+                坐标江苏扬州高邮，对信息技术以及ACG文化感兴趣,会pr ps au ae am py php e<br>
+                昵称：赵成/Figerous<br>
+                “天空，大地，艳阳，微风
+                 还有一点点雨滴是必要的
+                 但你的微笑对我来说或许更多
+                 让我们在一起，在这盛夏
+                 “天空，大地，艳阳，微风，还有一点点必要的雨滴
+                 但你的微笑对我来说或许更多
+                 让我们在一起<br>
             </div>
         </div>
         <!--        <div class="rin-tr"></div>-->
@@ -97,7 +103,7 @@
                 </div>
 
                 <div class="mdui-row">
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '真的非常可爱√'}">
+                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '拉唉'}">
                         <div class="mdui-container">
 
                             <div class="mdui-row mdui-valign">
@@ -115,12 +121,12 @@
                         </div>
                     </div>
 
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '让事情发生的能力'}">
+                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '插件的编写能力'}">
                         <div class="mdui-container">
                             <div class="mdui-row mdui-valign">
                                 <div class="mdui-col-xs-4">
                                     <div class="rin-card-content">
-                                        搞事情
+                                        e语音
                                     </div>
                                 </div>
                                 <div class="mdui-col-xs-8">
@@ -170,12 +176,12 @@
                         </div>
                     </div>
 
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '做事情的耐心程度'}">
+                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '我的CAD制图水平'}">
                         <div class="mdui-container">
                             <div class="mdui-row mdui-valign">
                                 <div class="mdui-col-xs-4">
                                     <div class="rin-card-content">
-                                        耐心
+                                        CAD
                                     </div>
                                 </div>
                                 <div class="mdui-col-xs-8">
@@ -187,12 +193,12 @@
                         </div>
                     </div>
 
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '对这个世界热爱的程度'}">
+                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '我的外语水平'}">
                         <div class="mdui-container">
                             <div class="mdui-row mdui-valign">
                                 <div class="mdui-col-xs-4">
                                     <div class="rin-card-content">
-                                        世界
+                                        外语
                                     </div>
                                 </div>
                                 <div class="mdui-col-xs-8">
@@ -214,8 +220,7 @@
         <div class="rin-card-part" id="website">
             <div class="rin-card-title2 mdui-typo"><a href="#website">#</a> Website</div>
 
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize" href="https://qwq.best/"
-               target="_blank"><span class="iconfont iconBlog"></span> 博客</a>
+            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize" href="https://figerous.github.io/"><span class="iconfont iconBlog"></span> 博客</a>
 
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-black mdui-text-capitalize" href="https://lab.qwq.best/"
                target="_blank"><span class="iconfont iconlab"></span> 实验室</a>
@@ -225,13 +230,13 @@
         </div>
 
         <div class="rin-card-part" id="contact">
-            <div class="rin-card-title2 mdui-typo"><a href="#contact">#</a> 咱生活的地方</div>
+            <div class="rin-card-title2 mdui-typo"><a href="#contact">#</a> 生活的地方</div>
 
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-black mdui-text-capitalize"
-               href="https://github.com/AyagawaSeirin" target="_blank"><span class="iconfont icongithub"></span> Github</a>
+               href="https://github.com/Figerous" target="_blank"><span class="iconfont icongithub"></span> Github</a>
 
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink mdui-text-capitalize"
-               href="https://space.bilibili.com/174471710" target="_blank"><span class="iconfont iconbilibili"></span>
+               href="https://space.bilibili.com/479104877" target="_blank"><span class="iconfont iconbilibili"></span>
                 Bilibili</a>
 
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize"
@@ -243,7 +248,7 @@
                 Telegram</a>
 
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize"
-               href="mailto:AyagawaSeirin@outlook.com" target="_blank"><span class="iconfont iconmail_fill"></span> Mail</a>
+               href="1900380597@qq.com" target="_blank"><span class="iconfont iconmail_fill"></span> Mail</a>
 
 
         </div>
@@ -262,7 +267,7 @@
         <div class="rin-tr"></div>
 
         <div class="rin-card-part" id="last">
-            <div class="rin-card-title2">Figerous@AyagawaSeirin</div>
+            <div class="rin-card-title2">Figerous</div>
             <div class="rin-card-content">人类的伟大就是勇气的伟大,人类的赞歌就是勇气的赞歌</div>
         </div>
 
