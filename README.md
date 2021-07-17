@@ -40,8 +40,6 @@
 <script src="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/js/main.js"></script>
 </body>
 </html>
-
-
 <!--
  * AyagawaSeirin's Page
  * Last Update: 2021-07-17
@@ -70,21 +68,19 @@
     </script>
 </head>
 <body class="mdui-theme-primary-pink mdui-theme-accent-pink">
-<div id="rin-bg"></div>
+<div id="rin-bg">这段血之宿命~jojo！</div>
 <main id="rin-main">
     <div class="mdui-card rin-card">
-        <div class="rin-card-title">AyagawaSeirin!</div>
+        <div class="rin-card-title"></div>
         <div class="rin-card-part" id="introduce">
             <div class="rin-card-content mdui-typo">你好，这里是某F，普通的学生<br>
-                坐标江苏扬州高邮，对信息技术以及ACG文化感兴趣,会pr ps au ae am py php e<br>
+              
+                坐标江苏扬州高邮，对信息技术以及ACG文化感兴趣我会pr ps au ae am py php e<br>
+               
                 昵称：赵成/Figerous<br>
-                “天空，大地，艳阳，微风
-                 还有一点点雨滴是必要的
-                 但你的微笑对我来说或许更多
-                 让我们在一起，在这盛夏
-                 “天空，大地，艳阳，微风，还有一点点必要的雨滴
-                 但你的微笑对我来说或许更多
-                 让我们在一起<br>
+             
+              
+                天空，大地，艳阳，微风，还有一点点雨滴是必要的，但你的微笑对我来说或许更多，让我们在一起，在这盛夏，“天空，大地，艳阳，微风，还有一点点必要的雨滴，但你的微笑对我来说或许更多，让我们在一起 <br>
             </div>
         </div>
         <!--        <div class="rin-tr"></div>-->
@@ -170,7 +166,7 @@
                             <div class="mdui-row mdui-valign">
                                 <div class="mdui-col-xs-4">
                                     <div class="rin-card-content">
-                                        e语音
+                                        e语言
                                     </div>
                                 </div>
                                 <div class="mdui-col-xs-8">
@@ -260,6 +256,9 @@
 
             </div>
         </div>
+        天空！倏然坠落下 成对的流星，被光暗交错的水面 逐渐吞噬，交叠的波纹 宛如在互相牵引，对踏上荣耀之路的人 赐予太阳的指引，而对朝着野心尽头迈进的人 献上活祭，越是颤抖 心脏，就越像要燃烧殆尽般炽热，凭着手中释放的律动，与浑身爆发的勇气，对毫无迷惘的觉悟给予“喝彩”！这段血之宿命~jojo！<br>
+        
+        
         <!--        <div class="rin-tr"></div>-->
         <div class="rin-card-part" id="website">
             <div class="rin-card-title2 mdui-typo"><a href="#website">#</a> Website</div>
@@ -314,7 +313,7 @@
             <div class="rin-card-title2">Figerous</div>
             <div class="rin-card-content">人类的伟大就是勇气的伟大,人类的赞歌就是勇气的赞歌</div>
         </div>
-
+朦胧的船只 在波光粼粼的海上，留下告别的汽笛声，如果沿着缓缓的山坡走下去，是否会遇见 夏色的风，我的爱 是旋律，深深浅浅地 吟唱，我的爱 是海鸥，高高低低地 飞翔，如果在夕阳之中 试着呼唤，是否能遇见 温柔的你，散步的道路上 摇曳的树林，落下告别的阴影，古老的教堂 风向标的指针，夏色的街道 这些是否还能看见，昨天的爱 是泪水，是否终究会干涸消失，明日的爱 是反复咏唱的副歌，是无穷无尽的言语，如果能够在夕阳之中相遇，你是否会拥我在怀中<br>
         <div class="rin-card-part" id="footer">
             <div class="rin-card-content">©2020 Seirin | Made with love by Seirin | BG: <a
                     href="https://www.pixiv.net/artworks/56652667" id="bg-link" target="_blank">Pixiv</a></div>
