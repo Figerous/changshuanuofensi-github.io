@@ -35,10 +35,8 @@
                 坐标江苏扬州高邮，对信息技术以及ACG文化感兴趣,会pr ps au ae am py php e<br>   
                
                昵称：赵成/Figerous我的QQ是1900380597<br>
-                <div class="list_ico"><a href="tencent://message/?uin=1410469560" target="_blank" rel="nofollow"><i class="fa fa-qq"></i></a></div>
-				<div class="list_title">联系我</div>
+       
              
-              
                天空，大地，艳阳，微风，还有一点点雨滴是必要的，但你的微笑对我来说或许更多，让我们在一起，在这盛夏，“天空，大地，艳阳，微风，还有一点点必要的雨滴，但你的微笑对我来说或许更多，让我们在一起 <br>
             </div>
         </div>
@@ -216,7 +214,9 @@
             </div>
         </div>
         天空！倏然坠落下 成对的流星，被光暗交错的水面 逐渐吞噬，交叠的波纹 宛如在互相牵引，对踏上荣耀之路的人 赐予太阳的指引，而对朝着野心尽头迈进的人 献上活祭，越是颤抖 心脏，就越像要燃烧殆尽般炽热，凭着手中释放的律动，与浑身爆发的勇气，对毫无迷惘的觉悟给予“喝彩”！这段血之宿命~jojo！<br>
-        
+          
+	    
+	    百度网盘提取码一律ky6y<br>
         
         <!--        <div class="rin-tr"></div>-->
         <div class="rin-card-part" id="website">
@@ -232,10 +232,17 @@
              
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://pan.baidu.com/s/1sltRJdX0pvmahoZ39GttRw"
                target="_blank" style="text-transform: none!important;">1.5W短信轰炸/网盘资源</a>
+		
+            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://www.duylw.com/www.duylw.com-ys/duanxinzha/index.php"
+               target="_blank" style="text-transform: none!important;">网页在线短信轰炸</a>
+            
+	    <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://msdnxz.com/14593.html"
+               target="_blank" style="text-transform: none!important;">Q绑查手机号</a>
+            
+             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://privacy.aiuys.com/"
+               target="_blank" style="text-transform: none!important;">伪社工库</a>
             
             
-               百度网盘提取码一律ky6y<br>
-        
         </div>
 
         <div class="rin-card-part" id="contact">
@@ -290,6 +297,6 @@
 <script src="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/js/main.js"></script>
 </body>
 </html>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//y.music.163.com/m/playlist?id=5032206797&userid=3342975703&creatorId=3342975703"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=767452&auto=1&height=66"></iframe>
 
 
