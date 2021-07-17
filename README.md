@@ -29,8 +29,8 @@
 <main id="rin-main">
     <div id="rin-headimg"></div>
     <div class="rin-name">Figerous</div>
-    <div class="rin-description">「樱花 樱花 好想见你|不,我想现在就见到你|没关系 别哭,我是风正萦绕着你|我是星 会一直守护你|能和你相遇真是太好了|真的真的很好|必须离开了|对不起,不要问了,真的抱歉|我已经不能再留在你身边」</div>
-    <div class="rin-tr"></div>
+   「樱花 樱花 好想见你|不,我想现在就见到你|没关系 别哭,我是风正萦绕着你|我是星 会一直守护你|能和你相遇真是太好了|真的真的很好|必须离开了|对不起,不要问了,真的抱歉|我已经不能再留在你身边」</div>
+    <div class="rin-tr"><br>
     <a class="mdui-btn mdui-btn-raised rin-btn mdui-text-capitalize" href="detaile.html">More</a>
 </main>
 <footer id="rin-footer">
