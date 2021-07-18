@@ -265,7 +265,7 @@
 
             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize"
                href="https://qm.qq.com/cgi-bin/qm/qr?k=1jGNaMfMfsnul1_Quxc4R-zVUpfhCjZj&noverify=0
-"iconfont iconQQ"></span> QQ</a>
+"iconfont icon-qq"></span> QQ</a>
 
 
         </div>
