@@ -1,303 +1,484 @@
-<!--
- * AyagawaSeirin's Page
- * Last Update: 2021-07-17
- * GitHub: https://github.com/AyagawaSeirin/
- * Made with love by AyagawaSeirin [https://qwq.best/]
--->
-<html lang="zh-CN">
-<head>
-    <meta charset="utf-8">
-    <title>Figerous | Winner</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/mdui/css/mdui.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/css/main.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/css/detaile.css">
-    <!-- <link rel="stylesheet" href="/assets/css/detaile.css"> -->
-    <link rel="stylesheet" href="https://at.alicdn.com/t/font_1625701_yqfsv6kz1w9.css">
-    <link rel="icon" href="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/img/logo-circul-100.png">
-    <script>
-        var _hmt = _hmt || [];
-        (function() {
-            var hm = document.createElement("script");
-            hm.src = "https://hm.baidu.com/hm.js?c8493223ca0fc5718b7da621552fdd73";
-            var s = document.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(hm, s);
-        })();
-    </script>
-</head>
-<body class="mdui-theme-primary-pink mdui-theme-accent-pink">
-<div id="rin-bg"></div>
-<main id="rin-main">
-    <div class="mdui-card rin-card">
-        <div class="rin-card-title">这段血之宿命~jojo！</div>
-        <div class="rin-card-part" id="introduce">
-            <div class="rin-card-content mdui-typo">你好，这里是某成，普通的学生<br>
-                坐标江苏扬州高邮，对信息技术以及ACG文化感兴趣,会pr ps au ae am py php e<br>   
-               
-               昵称：赵成/Figerous我的QQ是1900380597<br>
-       
-             
-               天空，大地，艳阳，微风，还有一点点雨滴是必要的，但你的微笑对我来说或许更多，让我们在一起，在这盛夏，“天空，大地，艳阳，微风，还有一点点必要的雨滴，但你的微笑对我来说或许更多，让我们在一起 <br>
-            </div>
-        </div>
-        <!--        <div class="rin-tr"></div>-->
-        <div class="rin-card-part" id="fighting">
-            <div class="rin-card-title2 mdui-typo"><a href="#fighting">#</a> 战斗力</div>
-            <div class="mdui-container">
-                <div class="mdui-row">
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '制作网站的能力:非常菜'}">
-                        <div class="mdui-container">
-
-                            <div class="mdui-row mdui-valign">
-                                <div class="mdui-col-xs-4">
-                                    <div class="rin-card-content">
-                                        HTML/CSS
-                                    </div>
-                                </div>
-                                <div class="mdui-col-xs-8">
-                                    <div class="mdui-progress">
-                                        <div class="mdui-progress-determinate" style="width: 15%;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '赞美世界上最好的语言的能力'}">
-                        <div class="mdui-container">
-                            <div class="mdui-row mdui-valign">
-                                <div class="mdui-col-xs-4">
-                                    <div class="rin-card-content">
-                                        PHP
-                                    </div>
-                                </div>
-                                <div class="mdui-col-xs-8">
-                                    <div class="mdui-progress">
-                                        <div class="mdui-progress-determinate" style="width: 30%;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '现用现学的能力:我太蔡了'}">
-                        <div class="mdui-container">
-                            <div class="mdui-row mdui-valign">
-                                <div class="mdui-col-xs-4">
-                                    <div class="rin-card-content">
-                                        Java Script
-                                    </div>
-                                </div>
-                                <div class="mdui-col-xs-8">
-                                    <div class="mdui-progress">
-                                        <div class="mdui-progress-determinate" style="width: 10%;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="mdui-row">
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '拉唉'}">
-                        <div class="mdui-container">
-
-                            <div class="mdui-row mdui-valign">
-                                <div class="mdui-col-xs-4">
-                                    <div class="rin-card-content">
-                                        MAD
-                                    </div>
-                                </div>
-                                <div class="mdui-col-xs-8">
-                                    <div class="mdui-progress">
-                                        <div class="mdui-progress-determinate" style="width: 95%;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '插件的编写能力'}">
-                        <div class="mdui-container">
-                            <div class="mdui-row mdui-valign">
-                                <div class="mdui-col-xs-4">
-                                    <div class="rin-card-content">
-                                        e语言
-                                    </div>
-                                </div>
-                                <div class="mdui-col-xs-8">
-                                    <div class="mdui-progress">
-                                        <div class="mdui-progress-determinate" style="width: 45%;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '对他人的情感深度'}">
-                        <div class="mdui-container">
-                            <div class="mdui-row mdui-valign">
-                                <div class="mdui-col-xs-4">
-                                    <div class="rin-card-content">
-                                        情感
-                                    </div>
-                                </div>
-                                <div class="mdui-col-xs-8">
-                                    <div class="mdui-progress">
-                                        <div class="mdui-progress-determinate" style="width: 85%;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="mdui-row">
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '社交能力<del>(社恐</del>'}">
-                        <div class="mdui-container">
-
-                            <div class="mdui-row mdui-valign">
-                                <div class="mdui-col-xs-4">
-                                    <div class="rin-card-content">
-                                        社交
-                                    </div>
-                                </div>
-                                <div class="mdui-col-xs-8">
-                                    <div class="mdui-progress">
-                                        <div class="mdui-progress-determinate" style="width: 20%;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '我的CAD制图水平'}">
-                        <div class="mdui-container">
-                            <div class="mdui-row mdui-valign">
-                                <div class="mdui-col-xs-4">
-                                    <div class="rin-card-content">
-                                        CAD
-                                    </div>
-                                </div>
-                                <div class="mdui-col-xs-8">
-                                    <div class="mdui-progress">
-                                        <div class="mdui-progress-determinate" style="width: 60%;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-4" mdui-tooltip="{content: '我的外语水平'}">
-                        <div class="mdui-container">
-                            <div class="mdui-row mdui-valign">
-                                <div class="mdui-col-xs-4">
-                                    <div class="rin-card-content">
-                                        外语
-                                    </div>
-                                </div>
-                                <div class="mdui-col-xs-8">
-                                    <div class="mdui-progress">
-                                        <div class="mdui-progress-determinate" style="width: 2%;"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-
-
-            </div>
-        </div>
-        天空！倏然坠落下 成对的流星，被光暗交错的水面 逐渐吞噬，交叠的波纹 宛如在互相牵引，对踏上荣耀之路的人 赐予太阳的指引，而对朝着野心尽头迈进的人 献上活祭，越是颤抖 心脏，就越像要燃烧殆尽般炽热，凭着手中释放的律动，与浑身爆发的勇气，对毫无迷惘的觉悟给予“喝彩”！这段血之宿命~jojo！<br>
-          
-	    
-	    百度网盘提取码一律ky6y<br>
-        
-        <!--        <div class="rin-tr"></div>-->
-        <div class="rin-card-part" id="website">
-            <div class="rin-card-title2 mdui-typo"><a href="#website">#</a> Website</div>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize" href="https://figerous.github.io/"><span class="iconfont iconBlog"></span> 博客</a>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-black mdui-text-capitalize" href="https://pan.baidu.com/s/1ghSAwJX0Qy2Hg4Hln989SQ"
-               target="_blank"><span class="iconfont iconlab"></span> CC攻击/网盘资源</a>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://pan.baidu.com/s/1fO31OeIsIg90YG4WmCa0eg"
-               target="_blank" style="text-transform: none!important;">抖音视频解析/网盘资源</a>
-             
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://pan.baidu.com/s/1sltRJdX0pvmahoZ39GttRw"
-               target="_blank" style="text-transform: none!important;">1.5W短信轰炸/网盘资源</a>
-		
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://www.duylw.com/www.duylw.com-ys/duanxinzha/index.php"
-               target="_blank" style="text-transform: none!important;">网页在线短信轰炸</a>
-            
-	    <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://msdnxz.com/14593.html"
-               target="_blank" style="text-transform: none!important;">Q绑查手机号</a>
-            
-             <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink" href="https://privacy.aiuys.com/"
-               target="_blank" style="text-transform: none!important;">伪社工库</a>
-            
-            
-        </div>
-
-        <div class="rin-card-part" id="contact">
-            <div class="rin-card-title2 mdui-typo"><a href="#contact">#</a> 生活的地方</div>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-black mdui-text-capitalize"
-               href="https://github.com/Figerous" target="_blank"><span class="iconfont icongithub"></span> Github</a>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink mdui-text-capitalize"
-               href="https://space.bilibili.com/479104877" target="_blank"><span class="iconfont iconbilibili"></span>
-                Bilibili</a>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize"
-               href="https://twitter.com/AyagawaSeirin" target="_blank"><span class="iconfont icontwitter-fill"></span>
-                Twitter</a>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize"
-               href="https://t.me/AyagawaSeirin" target="_blank"><span class="iconfont icontelegram"></span>
-                Telegram</a>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize"
-               href="https://qm.qq.com/cgi-bin/qm/qr?k=1jGNaMfMfsnul1_Quxc4R-zVUpfhCjZj&noverify=0
-</span> QQ</a>
-
-
-        </div>
-
-        <div class="rin-card-part" id="other">
-            <div class="rin-card-title2 mdui-typo"><a href="#other">#</a> 其他</div>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize"
-               href="https://qwq.best/links" target="_blank"><span class="iconfont iconlinks"></span> 朋友们</a>
-
-            <a class="mdui-btn mdui-btn-raised rin-btn rin-btn-blue mdui-text-capitalize"
-               href="https://qwq.best/msg" target="_blank"><span class="iconfont iconCommentenable"></span> 留言板</a>
-
-        </div>
-
-        <div class="rin-tr"></div>
-
-        <div class="rin-card-part" id="last">
-            <div class="rin-card-title2">Figerous</div>
-            <div class="rin-card-content">人类的伟大就是勇气的伟大,人类的赞歌就是勇气的赞歌</div>
-        </div>
-朦胧的船只 在波光粼粼的海上，留下告别的汽笛声，如果沿着缓缓的山坡走下去，是否会遇见 夏色的风，我的爱 是旋律，深深浅浅地 吟唱，我的爱 是海鸥，高高低低地 飞翔，如果在夕阳之中 试着呼唤，是否能遇见 温柔的你，散步的道路上 摇曳的树林，落下告别的阴影，古老的教堂 风向标的指针，夏色的街道 这些是否还能看见，昨天的爱 是泪水，是否终究会干涸消失，明日的爱 是反复咏唱的副歌，是无穷无尽的言语，如果能够在夕阳之中相遇，你是否会拥我在怀中<br>
-        <div class="rin-card-part" id="footer">
-            <div class="rin-card-content">©2020 Seirin | Made with love by Seirin | BG: <a
-                    href="https://www.pixiv.net/artworks/56652667" id="bg-link" target="_blank">Pixiv</a></div>
-        </div>
-    </div>
-</main>
-<script src="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/mdui/js/mdui.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/AyagawaSeirin/homepage@double/assets/js/main.js"></script>
-</body>
-</html>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=767452&auto=1&height=66"></iframe>
+<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<!-- Page Title Here -->
+		<title>
+			个人引导页
+		</title>
+		<!-- Disable screen scaling-->
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+		<!-- Initializer -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<!-- Web fonts and Web Icons -->
+		<link rel="stylesheet" href="css/pageloader.css">
+		<link rel="stylesheet" href="css/stylesheet.css">
+		<link rel="stylesheet" href="css/stylesheet_1.css">
+		<link rel="stylesheet" href="https://cdn.bootcss.com/ionicons/1.5.2/css/ionicons.min.css">
+		<!-- Vendor CSS style -->
+		<link rel="stylesheet" href="css/foundation.min.css">
+		<link rel="stylesheet" href="css/jquery.fullPage.css">
+		<link rel="stylesheet" href="css/vegas.min.css">
+		<!-- Main CSS files -->
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/main_responsive.css">
+		<link rel="stylesheet" href="css/style-font1.css">
+		<script src="js/modernizr-2.7.1.min.js">
+		</script>
+		<script src="js/sakura.js">
+		</script>
+		<style type="text/css">
+			/**普通指针样式**/ body{cursor:url(css/dorcandy.cur),default;}//默认鼠标效果 /**链接指针样式**/
+			a:hover{cursor:url(css/pointer.cur),pointer;}//链接选择效果
+		</style>
+	</head>
+	<body id="menu" class="alt-bg">
+		<div class="page-loader" id="page-loader">
+			<div>
+				<i class="ion ion-loading-d">
+				</i>
+				<p>
+					欢迎来到异次元小站~
+				</p>
+			</div>
+		</div>
+		<header class="header-top">
+			<div class="logo">
+				<a href="#home">
+					<img src="images/logo_large.png" alt="Logo Brand">
+				</a>
+			</div>
+			<div class="menu clearfix">
+				<a href="https://www.starxn.com/">
+					<span style="color:#FFD700;">
+						引导页
+					</span>
+				</a>
+			</div>
+		</header>
+		<nav class="quick-link count-6 nav-left">
+			<ul id="qmenu">
+				<li data-menuanchor="home">
+					<a href="#home">
+						🎪
+					</a>
+					<span class="title">
+						欢迎页面
+					</span>
+				</li>
+				<li data-menuanchor="when">
+					<a href="#when">
+						🍰
+					</a>
+					<span class="title">
+						吃蛋糕啦
+					</span>
+				</li>
+				<li data-menuanchor="register">
+					<a href="#register">
+						🌏
+					</a>
+					<span class="title">
+						站点一览
+					</span>
+				</li>
+				<li data-menuanchor="about-us">
+					<a href="#about-us">
+						👒
+					</a>
+					<span class="title">
+						聊聊某某
+					</span>
+				</li>
+				<li data-menuanchor="contact">
+					<a href="#contact">
+						📧
+					</a>
+					<span class="title">
+						联系某某
+					</span>
+				</li>
+			</ul>
+		</nav>
+		<div class="page-cover" id="home">
+			<div class="cover-bg pos-abs full-size bg-img" data-image-src="https://imgs.aixifan.com/live/1495974356790/1495974356790.jpg">
+			</div>
+			<div class="cover-bg pos-abs full-size slide-show">
+				<i class="img" data-src="https://hefollo.com/%E7%94%B5%E8%84%91%E7%AB%AF-4K%E5%9B%BE%E7%89%87/4K%E9%A3%8E%E6%99%AF%E7%B3%BB%E5%88%97/020a1051d89f40bd92ad4ce455860ff5.jpg">
+				</i>
+				<i class="img" data-src="https://hefollo.com/%E7%94%B5%E8%84%91%E7%AB%AF-4K%E5%9B%BE%E7%89%87/4K%E5%8A%A8%E6%BC%AB%E7%B3%BB%E5%88%97/41ff17357c8442b58da8b08da9a6c0ca.jpg">
+				</i>
+				<i class="img" data-src="https://hefollo.com/%E7%94%B5%E8%84%91%E7%AB%AF-4K%E5%9B%BE%E7%89%87/4K%E5%8A%A8%E6%BC%AB%E7%B3%BB%E5%88%97/84f153eb6e9f4de082852cca8764d06f.jpg">
+				</i>
+				<i class="img" data-src="https://hefollo.com/%E7%94%B5%E8%84%91%E7%AB%AF-4K%E5%9B%BE%E7%89%87/4K%E5%8A%A8%E6%BC%AB%E7%B3%BB%E5%88%97/581face2aae5490397f9367ac5335b8d.jpg">
+				</i>
+				<i class="img" data-src="https://hefollo.com/%E7%94%B5%E8%84%91%E7%AB%AF-4K%E5%9B%BE%E7%89%87/4K%E5%8A%A8%E6%BC%AB%E7%B3%BB%E5%88%97/1269070950.png">
+				</i>
+				<i class="img" data-src="https://hefollo.com/%E7%94%B5%E8%84%91%E7%AB%AF-4K%E5%9B%BE%E7%89%87/4K%E5%8A%A8%E6%BC%AB%E7%B3%BB%E5%88%97/2379395075.png">
+				</i>
+				<i class="img" data-src="https://hefollo.com/%E7%94%B5%E8%84%91%E7%AB%AF-4K%E5%9B%BE%E7%89%87/4K%E5%8A%A8%E6%BC%AB%E7%B3%BB%E5%88%97/91794489178d4d208257c0652a191424.jpg">
+				</i>
+				<i class="img" data-src="https://hefollo.com/%E7%94%B5%E8%84%91%E7%AB%AF-4K%E5%9B%BE%E7%89%87/4K%E5%8A%A8%E6%BC%AB%E7%B3%BB%E5%88%97/a980038dfa0d4b53b52e3ce77907d9b1.jpg">
+				</i>
+				<i class="img" data-src="https://hefollo.com/%E7%94%B5%E8%84%91%E7%AB%AF-4K%E5%9B%BE%E7%89%87/4K%E5%8A%A8%E6%BC%AB%E7%B3%BB%E5%88%97/cbcfdf1f271344308e01fd65cda77f41.jpg">
+				</i>
+			</div>
+			<div class="cover-bg pos-abs full-size bg-color" data-bgcolor="rgba(51, 2, 48, 0.12)">
+			</div>
+		</div>
+		<main class="page-main" id="mainpage">
+			<div class="section page-home page page-cent" id="s-home">
+				<div class="logo-container">
+					<img class="h-logo" src="images/logo_only.png" alt="Logo">
+				</div>
+				<section class="content">
+					<header class="header">
+						<div class="h-left">
+							<h2 title="点这里访问博客~">
+								<a href="https://afqaq.com/">
+									<span style="color:#FFFFFF;">
+										starxn
+									</span>
+									<strong>
+										<span style="color:#FFFFFF;">
+											小站
+										</span>
+									</strong>
+								</a>
+							</h2>
+						</div>
+						<div class="h-right">
+							<h3>
+								描述 着
+								<br>
+								某某某。
+							</h3>
+							<h4 class="subhead">
+								<a href="#when">
+									starxn！！& 异次元！
+								</a>
+							</h4>
+						</div>
+					</header>
+				</section>
+				<div>
+					<article class="text">
+						<form id="mail-subscription" class="form magic send_email_form" method="get"
+						action="ajaxserver/serverfile.php">
+							<p class="invite center">
+								<script type="text/javascript" src="https://quote.51.la/q?id=20628121&mb=1">
+								</script>
+							</p>
+						</form>
+					</article>
+				</div>
+				<footer class="p-footer p-scrolldown">
+					<a href="#when">
+						<div class="arrow-d">
+							<div class="before">
+								你&nbsp;是&nbsp;否
+							</div>
+							<div class="after">
+								在&nbsp;期&nbsp;待&nbsp;着
+							</div>
+							<div class="circle">
+							</div>
+						</div>
+					</a>
+				</footer>
+			</div>
+			<div class="section page-when page page-cent" id="s-when">
+				<section class="content">
+					<div class="clock clock-countdown">
+						<div class="site-config" data-date="7/18/2021 00:00:00" data-date-timezone="+0">
+						</div>
+						<header class="header">
+							🎂 距离
+							<strong>
+								某某
+							</strong>
+							的生日还剩下 🎉
+						</header>
+						<div class="elem-left">
+							<div class="digit hours">
+								00
+							</div>
+							<div class="text">
+								时
+							</div>
+						</div>
+						<div class="elem-center">
+							<span class="text top">
+								<img class="img" alt="Logo" src="images/logo_large.png">
+							</span>
+							<div class="digit days">
+								373
+							</div>
+							<div class="text">
+								日
+							</div>
+						</div>
+						<div class=" elem-right">
+							<div class="digit minutes">
+								00
+							</div>
+							<div class="text">
+								分
+							</div>
+						</div>
+						<div class="second">
+							<input class="knob container" id="second-knob" data-width="400" data-height="400"
+							data-displayInput="false" data-fgColor="#fff" data-bgColor="rgba(255,255,255,0)"
+							data-thickness=".07" value="0" data-displayPrevious="true" data-max="6000">
+						</div>
+					</div>
+				</section>
+				<footer class="p-footer p-scrolldown">
+					<a href="#register">
+						<div class="arrow-d">
+							<div class="before">
+								节&nbsp;日
+							</div>
+							<div class="after">
+								快&nbsp;乐
+							</div>
+							<div class="circle">
+							</div>
+						</div>
+					</a>
+				</footer>
+			</div>
+			<div class="section page-register page page-cent " id="s-register">
+				<section class="content">
+					<header class="p-title">
+						<h3>
+							<span style="color:#FFFFFF;">
+								🍭 某某站点一览
+							</span>
+						</h3>
+					</header>
+					<div>
+						<article class="text">
+							<p>
+								<a href="https://afqaq.com/" target="_blank">
+									<span style="color:#FFFFFF;">
+										🍉 某某·札记： 某某的博客，每次的新博文都在这里
+									</span>
+								</a>
+							</p>
+							<p>
+								<a href="https://starxn.com/" target="_blank">
+									<span style="color:#FFFFFF;">
+										🍒 某某·友链： 来加上友情链接~
+									</span>
+								</a>
+							</p>
+							<form id="mail-subscription" class="form magic send_email_form" method="get"
+							action="ajaxserver/serverfile.php">
+								<p class="invite center">
+									点击上方的链接来访问小站吧~
+								</p>
+							</form>
+						</article>
+					</div>
+				</section>
+				<footer class="p-footer p-scrolldown">
+					<a href="#about-us">
+						<div class="arrow-d">
+							<div class="before">
+								超&nbsp;级&nbsp;帅&nbsp;气&nbsp;的
+							</div>
+							<div class="after">
+								小&nbsp;异&nbsp;大&nbsp;人
+							</div>
+							<div class="circle">
+							</div>
+						</div>
+					</a>
+				</footer>
+			</div>
+			<div class="section page-about page page-cent" id="s-about-us">
+				<section class="content">
+					<header class="p-title">
+						<h3>
+							🍬 关于某某小站
+						</h3>
+						<h2>
+							想与
+							<span class="bold">
+								某某大人
+							</span>
+							一起愉快的
+							<span class="bold">
+								深入♂交流
+							</span>
+							嘛
+						</h2>
+					</header>
+					<article class="text">
+						<p>
+							&emsp;&emsp;异次元是个好名字，既简单又可爱，当然也很好记就是有些绕口 所以来访单朋友称呼我『大帅比』就可以啦~本某某是不会在意的啦~
+						</p>
+						<p>
+							&emsp;&emsp; 某某来自于美丽的西南方城市，所以说某某都是爱吃米的啦~ 当然除了米，某某也是啥都爱吃！但是，唯独不喜欢茄子和 除了吃，某某也喜欢读读书看看片，喝喝奶茶泡泡脚ω
+						</p>
+					</article>
+					<div class="sender">
+						<div>
+							<img src="images/kasa.jpeg">
+						</div>
+						<div>
+							<div class="left_triangle">
+							</div>
+							<span>
+								<span style="color:#E56600;">
+									&nbsp;魔镜魔镜，世界上最帅的人是谁？&nbsp;
+								</span>
+							</span>
+						</div>
+					</div>
+					<div class="receiver">
+						<div>
+							<img src="images/img_avatar.png">
+						</div>
+						<div>
+							<div class="right_triangle">
+							</div>
+							<span>
+								<span style="color:#4C33E5;">
+									那当然是
+									<span style="color:#E53333;">
+										某某大人
+									</span>
+									啦~
+								</span>
+								<span style="color:#4C33E5;">
+								</span>
+								<br>
+							</span>
+						</div>
+					</div>
+				</section>
+				<footer class="p-footer p-scrolldown">
+					<a href="#contact">
+						<div class="arrow-d">
+							<div class="before">
+								ScarletDor
+							</div>
+							<div class="after">
+								某某的&nbsp;窝
+							</div>
+							<div class="circle">
+							</div>
+						</div>
+					</a>
+				</footer>
+			</div>
+			<div class="section page-contact page page-cent" id="s-contact">
+				<section class="content">
+					<header class="p-title">
+						<h3>
+							💖 联系某某
+						</h3>
+					</header>
+					<div class="contact">
+						<div class="row">
+							<div class="medium-6 columns left">
+								<ul>
+									<li>
+										<h4>
+											Email
+										</h4>
+										<p>
+											<a href="mailto://contact@mail.com">
+												123456@qq.com
+											</a>
+										</p>
+									</li>
+									<li>
+										<h4>
+											OICQ
+										</h4>
+										<p>
+											<a href="https://wpa.qq.com/msgrd?v=3&uin=123456&site=qq&menu=yes" target="_blank">
+												123456
+											</a>
+										</p>
+									</li>
+								</ul>
+							</div>
+							<div class="medium-6 columns social-links right">
+								<ul>
+									<li class="show-for-medium-up">
+										<h4>
+											新发现
+										</h4>
+										<p>
+											<a href="https://www.starxn.com/">
+												Dorcandy.cn
+											</a>
+										</p>
+									</li>
+									<li class="show-for-medium-up">
+										<h4>
+											寻觅踪迹
+										</h4>
+										<div class="socialnet">
+											<a href="https://www.starxn.com/">
+												<i class="ion ion-social-facebook">
+												</i>
+											</a>
+											<a href="https://www.starxn.com/">
+												<i class="ion ion-social-instagram">
+												</i>
+											</a>
+											<a href="https://www.starxn.com/">
+												<i class="ion ion-social-twitter">
+												</i>
+											</a>
+											<a href="#">
+												<i class="ion ion-social-pinterest">
+												</i>
+											</a>
+											<a href="#">
+												<i class="ion ion-social-tumblr">
+												</i>
+											</a>
+										</div>
+									</li>
+									<li>
+										<p>
+											<img src="images/logo_large.png" alt="Logo" class="logo">
+										</p>
+										<p class="small">
+											某某 by
+											<strong>
+												<a href="https://www.starxn.com/">
+													Brand
+												</a>
+											</strong>
+											. All right reserved 2019
+										</p>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+		</main>
+		<script src="js/jquery-1.11.2.min.js">
+		</script>
+		<script src="js/all.js">
+		</script>
+		<script src="js/jquery.downCount.js">
+		</script>
+		<script src="js/form_script.js">
+		</script>
+		<script src="js/main.js">
+		</script>
+	</body>
 
 
